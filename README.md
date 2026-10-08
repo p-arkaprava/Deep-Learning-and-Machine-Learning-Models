@@ -10,7 +10,7 @@ Every concept in my course notes gets a matching implementation here: first by h
 
 ## 🔗 Repository
 
-**GitHub:** https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+**GitHub:** https://github.com/p-arkaprava/Deep-Learning-and-Machine-Learning-Models.git
 
 ---
 
@@ -66,9 +66,9 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 ## ✅ Progress tracker
 
 **01 - Perceptron and Gradient Descent**
-- [ ] 01 - Thresholded Perceptron
-- [ ] 02 - Unthresholded Perceptron and Delta Rule
-- [ ] 03 - Sigmoid Unit and Non-linearity
+- [x] 01 - Thresholded Perceptron
+- [x] 02 - Unthresholded Perceptron and Delta Rule
+- [x] 03 - Sigmoid Unit and Non-linearity
 
 **02 - Feed-Forward Networks and Backpropagation**
 - [ ] 01 - Architecture and Parameter Counting
@@ -150,7 +150,7 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 
 | Topic | Status |
 |-------|--------|
-| 01 - Perceptron and Gradient Descent | ⚪ Upcoming |
+| 01 - Perceptron and Gradient Descent | 🟢 Completed |
 | 02 - Feed-Forward Networks and Backpropagation | ⚪ Upcoming |
 | 03 - Text to Numbers and Word Embeddings | ⚪ Upcoming |
 | 04 - Computation Graphs and Autodiff | ⚪ Upcoming |
@@ -252,6 +252,7 @@ Update README progress tracker
 | Date | Update |
 |------|--------|
 | 2026-10-08 | Created repo structure from the course notes |
+| 2026-10-09 | Added Perceptron Code and concepts and Explaination |
 
 ---
 
