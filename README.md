@@ -150,7 +150,7 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 
 | Topic | Status |
 |-------|--------|
-| 01 - Perceptron and Gradient Descent | ⚪ Upcoming |
+| 01 - Perceptron and Gradient Descent | 🟢 Completed |
 | 02 - Feed-Forward Networks and Backpropagation | ⚪ Upcoming |
 | 03 - Text to Numbers and Word Embeddings | ⚪ Upcoming |
 | 04 - Computation Graphs and Autodiff | ⚪ Upcoming |
@@ -252,6 +252,7 @@ Update README progress tracker
 | Date | Update |
 |------|--------|
 | 2026-10-08 | Created repo structure from the course notes |
+| 2026-10-09 | Added Perceptron Code and concepts and Explaination |
 
 ---
 
