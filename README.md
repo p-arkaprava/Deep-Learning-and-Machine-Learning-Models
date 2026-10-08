@@ -10,7 +10,7 @@ Every concept in my course notes gets a matching implementation here: first by h
 
 ## 🔗 Repository
 
-**GitHub:** https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+**GitHub:** https://github.com/p-arkaprava/Deep-Learning-and-Machine-Learning-Models.git
 
 ---
 
