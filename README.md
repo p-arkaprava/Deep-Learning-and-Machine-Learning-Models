@@ -66,9 +66,9 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 ## ✅ Progress tracker
 
 **01 - Perceptron and Gradient Descent**
-- [ ] 01 - Thresholded Perceptron
-- [ ] 02 - Unthresholded Perceptron and Delta Rule
-- [ ] 03 - Sigmoid Unit and Non-linearity
+- [x] 01 - Thresholded Perceptron
+- [x] 02 - Unthresholded Perceptron and Delta Rule
+- [x] 03 - Sigmoid Unit and Non-linearity
 
 **02 - Feed-Forward Networks and Backpropagation**
 - [ ] 01 - Architecture and Parameter Counting
