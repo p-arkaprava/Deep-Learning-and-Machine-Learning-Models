@@ -71,12 +71,12 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 - [x] 03 - Sigmoid Unit and Non-linearity
 
 **02 - Feed-Forward Networks and Backpropagation**
-- [ ] 01 - Architecture and Parameter Counting
-- [ ] 02 - Matrix-Form Forward Pass
-- [ ] 03 - Backprop for the Output Layer
-- [ ] 04 - Backprop for Hidden Layers
-- [ ] 05 - Training a Small Network
-- [ ] 06 - Memory Footprint and Multi-GPU Training
+- [x] 01 - Architecture and Parameter Counting
+- [x] 02 - Matrix-Form Forward Pass
+- [x] 03 - Backprop for the Output Layer
+- [x] 04 - Backprop for Hidden Layers
+- [x] 05 - Training a Small Network
+- [x] 06 - Memory Footprint and Multi-GPU Training
 
 **03 - Text to Numbers and Word Embeddings**
 - [ ] 01 - One-Hot and TF-IDF
@@ -151,7 +151,7 @@ Perceptron → FFNN + Backprop → Word2Vec → RNN → LSTM / GRU → Seq2Seq +
 | Topic | Status |
 |-------|--------|
 | 01 - Perceptron and Gradient Descent | 🟢 Completed |
-| 02 - Feed-Forward Networks and Backpropagation | ⚪ Upcoming |
+| 02 - Feed-Forward Networks and Backpropagation | 🟢 Completed |
 | 03 - Text to Numbers and Word Embeddings | ⚪ Upcoming |
 | 04 - Computation Graphs and Autodiff | ⚪ Upcoming |
 | 05 - Recurrent Neural Networks | ⚪ Upcoming |
@@ -253,6 +253,7 @@ Update README progress tracker
 |------|--------|
 | 2026-10-08 | Created repo structure from the course notes |
 | 2026-10-09 | Added Perceptron Code and concepts and Explaination |
+| 2026-10-10 | Added Chapter 02 : FFNN, Backpropagation
 
 ---
 
